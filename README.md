@@ -10,7 +10,6 @@ Production-ready **multi-tenant SaaS backend** built with **Node.js + TypeScript
 
 ## Run locally
 ```bash
-cd backend
 npm install
 npm run dev
 ```
